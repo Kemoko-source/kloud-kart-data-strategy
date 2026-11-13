@@ -1,5 +1,4 @@
 # 1. Improvement Beyond the Brief
-
 ## Proposed Improvement: Automated Privacy-by-Design & DSAR Pipeline
 
 While the core brief focuses on resolving immediate operational bottlenecks, unifying customer data, and scaling platform workflows, it leaves data privacy and regulatory compliance as an implicit manual responsibility. 
