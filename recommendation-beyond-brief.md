@@ -1,6 +1,5 @@
 # 1. Improvement Beyond the Brief
 ## Proposed Improvement: Automated Privacy-by-Design & DSAR Pipeline
-
 While the core brief focuses on resolving immediate operational bottlenecks, unifying customer data, and scaling platform workflows, it leaves data privacy and regulatory compliance as an implicit manual responsibility. 
 
 My proposed improvement beyond the brief is to **embed an automated Data Subject Access Request (DSAR), consent management, and data lifecycle pipeline directly into Kloud Kart’s unified architecture from Day 1.**
