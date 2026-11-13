@@ -12,8 +12,8 @@ This repository contains the architectural diagnosis, decision records, strategi
 ```text
 .
 ├── README.md
-├── Kloud Kart Situation Diagnosis & Strategic Pivot.pdf
-├── situation _diagnosis.md
+├── board-presentation.pptx
+├── situation_diagnosis.md
 ├── recommendation_and_roadmap.md
 ├── recommendation-beyond-brief.md
 └── decisions/
